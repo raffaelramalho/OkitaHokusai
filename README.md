@@ -1,7 +1,7 @@
 ## Welcome to my Profile OwO
 I code some stuff (Most Frontend)
 
-Usually i never end a study project, those in here are almost the ones chosen ones of some old profecy 
+Usually i never end a study project, those in here are almost the ones chosen ones of some old prophecy
 
 ## About me
 ### Working with...
