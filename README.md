@@ -9,8 +9,8 @@ Usually i never end a study project, those in here are almost the ones chosen on
 - Linkedin https://www.linkedin.com/in/rafael-ramalho-rosa-58601518a/
 ### Working with...
 - PHP
-- Css for the most trending topics of UI/UX;
-- React Native;
+- Css ;
+- React ;
 ### Reading Something Related to...
 
 - Use of Hexo
