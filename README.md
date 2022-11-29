@@ -1,4 +1,4 @@
-## Welcome to my Profile OwO
+## Welcome to my Profile
 I code some stuff (Most Frontend)
 
 Usually i never end a study project, those in here are almost the ones chosen ones of some old prophecy
@@ -17,7 +17,7 @@ Usually i never end a study project, those in here are almost the ones chosen on
 - Use of Electron 
 - Use of Sass
 
-### I use a lot...
+### I've done some projects with...
 - PHP
 - HTML
 - JavaScript
