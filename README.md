@@ -1,5 +1,5 @@
-# 💫 Sobre a minha pessoa:
-Olá, eu sou o Rafael Ramalho<br>Aluno de Engenharia de Software na PUC<br>Entusiasta de programação e inteligência Artificial
+# 💫 Sobre mim:
+Olá, eu sou o Rafael Ramalho ROSA<br>Aluno de Engenharia de Software na PUC<br>Entusiasta de programação e inteligência Artificial
 
 
 ## 🌐 Socials:
