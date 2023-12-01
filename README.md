@@ -1,6 +1,7 @@
 # 💫 Sobre mim:
-Olá, eu sou o Rafael Ramalho ROSA<br>Aluno de Engenharia de Software na PUC<br>Entusiasta de programação e inteligência Artificial
+Olá, eu sou o Rafael Ramalho Rosa<br>Aluno de Engenharia de Software na PUC<br>Entusiasta de programação e inteligência Artificial
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ramalho-rosa-58601518a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@raffael.ramalho) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/okaszz) 
@@ -23,5 +24,12 @@ Olá, eu sou o Rafael Ramalho ROSA<br>Aluno de Engenharia de Software na PUC<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=raffaelramalho&icon=1&color=7)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <h3><b>Profile Visitor Count</b></h3>
+</div>
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/raffaelramalho/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
